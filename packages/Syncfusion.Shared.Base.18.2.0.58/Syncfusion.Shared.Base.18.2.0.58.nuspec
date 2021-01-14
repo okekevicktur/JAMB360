@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Syncfusion.Shared.Base</id>
+    <version>18.2.0.58</version>
+    <title>Syncfusion UI Controls for Windows Forms</title>
+    <authors>Syncfusion Inc.</authors>
+    <owners>Syncfusion Inc.</owners>
+    <licenseUrl>https://www.syncfusion.com/nuget/license?utm_source=nuget&amp;utm_medium=listing</licenseUrl>
+    <projectUrl>https://www.syncfusion.com/?utm_source=nuget&amp;utm_medium=listing</projectUrl>
+    <iconUrl>https://api.nuget.org/v3-flatcontainer/syncfusion.shared.base/18.2.0.58/icon</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Syncfusion UI controls for Windows Forms provide various layout and input controls often used in line-of-business applications. This package contains the following controls:
+
+Card layout: https://www.syncfusion.com/winforms-ui-controls/card-layout?utm_source=nuget&amp;utm_medium=listing
+
+Flow layout: https://www.syncfusion.com/winforms-ui-controls/flow-layout?utm_source=nuget&amp;utm_medium=listing
+
+Gradient panel: https://www.syncfusion.com/winforms-ui-controls/gradient-panel?utm_source=nuget&amp;utm_medium=listing
+
+Grid layout: https://www.syncfusion.com/winforms-ui-controls/grid-layout?utm_source=nuget&amp;utm_medium=listing
+
+Group bar: https://www.syncfusion.com/winforms-ui-controls/navigation-pane?utm_source=nuget&amp;utm_medium=listing
+
+Masked Textbox: https://www.syncfusion.com/winforms-ui-controls/maskedtextbox?utm_source=nuget&amp;utm_medium=listing
+
+Message box: https://www.syncfusion.com/winforms-ui-controls/messagebox?utm_source=nuget&amp;utm_medium=listing
+
+Pop-up control container: https://www.syncfusion.com/winforms-ui-controls/popup?utm_source=nuget&amp;utm_medium=listing
+
+Progress bar: https://www.syncfusion.com/winforms-ui-controls/progress-bar?utm_source=nuget&amp;utm_medium=listing
+
+Text box: https://www.syncfusion.com/winforms-ui-controls/textbox?utm_source=nuget&amp;utm_medium=listing
+
+Editable listbox: https://www.syncfusion.com/winforms-ui-controls/editable-listbox?utm_source=nuget&amp;utm_medium=listing
+
+Folder Browser: https://www.syncfusion.com/winforms-ui-controls/folder-browser?utm_source=nuget&amp;utm_medium=listing
+
+Border Layout: https://www.syncfusion.com/winforms-ui-controls/border-layout?utm_source=nuget&amp;utm_medium=listing
+
+Splash Screen: https://www.syncfusion.com/winforms-ui-controls/splash-screen?utm_source=nuget&amp;utm_medium=listing
+
+office 2007 form: https://www.syncfusion.com/winforms-ui-controls/office2007form?utm_source=nuget&amp;utm_medium=listing
+
+Grid bag layout:   https://www.syncfusion.com/winforms-ui-controls/grid-bag-layout?utm_source=nuget&amp;utm_medium=listing
+
+This is a commercial product and requires a paid license for possession or use. Syncfusion’s licensed software, including this component, is subject to the terms and conditions of Syncfusion's EULA (https://www.syncfusion.com/eula/es/?utm_source=nuget&amp;utm_medium=listing). To acquire a license, you can purchase one at https://www.syncfusion.com/sales/products?utm_source=nuget&amp;utm_medium=listing or start a free 30-day trial here (https://www.syncfusion.com/account/manage-trials/start-trials?utm_source=nuget&amp;utm_medium=listing).
+
+© Copyright 2020 Syncfusion, Inc. All Rights Reserved. The Syncfusion Essential Studio license and copyright applies to this distribution.</description>
+    <summary />
+    <releaseNotes>https://help.syncfusion.com/common/essential-studio/release-notes/v18.2.0.58?utm_source=nuget&amp;utm_medium=listing</releaseNotes>
+    <copyright>Copyright 2001 - 2020 Syncfusion Inc.</copyright>
+    <tags>syncfusion windows winforms windowsforms desktop wpf netcoreapp syncfusion.wpf syncfusion.windowsforms button textbox input currency gradient-panel groupbar groupbox layout grid-layout card-layout mask maskededit maskedtextbox messagebox notification progressbar progress editable-listbox folder-browser border-layout layouts splash-screen Office2007-form custom-form metro-form flow-layout grid-bag-layout pop-up navigation-pane</tags>
+    <dependencies>
+      <dependency id="Syncfusion.Licensing" version="18.2.0.58" />
+    </dependencies>
+  </metadata>
+</package>
